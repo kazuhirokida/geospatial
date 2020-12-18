@@ -1,10 +1,12 @@
 # geospatial
 
-## Marine Regions
+## Marine
+
+### Marine Regions
 https://www.marineregions.org/downloads.php
 
-## ASIA MARITIME TRANSPARENCY INITIATIVE
+### ASIA MARITIME TRANSPARENCY INITIATIVE
 https://amti.csis.org/maps/
 
-## MARITIME AWARENESS PROJECT
+### MARITIME AWARENESS PROJECT
 https://maritimeawarenessproject.org/interactivemap/
